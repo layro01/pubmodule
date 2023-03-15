@@ -1,2 +1,2 @@
 # pubmodule
-Repo for DigitalOcen's How to Distribute Go Modules Tutorial
+Repo for DigitalOcean's How to Distribute Go Modules Tutorial
